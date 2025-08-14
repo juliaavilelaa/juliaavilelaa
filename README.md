@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Júlia Galvão 🌸</h1>
-<h3 align="center">Computer Science graduate at Universidade Católica de Pernambuco.</h3>
+<h3 align="center">I'm a Computer Science graduate from Universidade Católica de Pernambuco with a strong interest in technology and competitive programming. I enjoy using my skills in algorithms and data structures to tackle challenging problems.</h3>
 
 <h3 align="left">Skills</h3>
 <table>
