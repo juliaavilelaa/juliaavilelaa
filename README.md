@@ -1,8 +1,6 @@
 <h1 align="center">Hi! I'm Júlia Galvão 🌸</h1>
 <h3 align="center">Computer Science graduate at Universidade Católica de Pernambuco.</h3>
 
-- 📫 How to reach me **juliavilela3@gmail.com**
-
 <h3 align="left">Skills</h3>
 <table>
   <tr>
@@ -64,6 +62,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaavilelaa&layout=compact)
 
+Reach me: **juliavilela3@gmail.com**
 <!--
 
 <h3 align="left">Connect with me</h3>
